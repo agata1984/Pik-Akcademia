@@ -9,36 +9,16 @@ Data premiery 	09.12.2022 r.
  
 CAST
 ----
-
-The Major-Domo
-Andreas T Olsson
-
-The Music Master
-Ola Eliasson
-
-The Composer
-Johanna Rudström
-
-The Tenor / Bacchus
-Michael Weinius
-
-An officer
-Jesper Taube
-
-The Dancing Master
-Petter Moen
-
-A wigmaker
-Jan Sörberg
-
-A lackey
-Johan Edholm
-
-Zerbinetta
-Sofie Asplund
-
-The Prima Donna / Ariadne
-Christina Nilsson
+The Major-Domo - Andreas T Olsson
+The Music Master - Ola Eliasson
+The Composer - Johanna Rudström
+The Tenor / Bacchus - Michael Weinius
+An officer - Jesper Taube
+The Dancing Master - Petter Moen
+A wigmaker - Jan Sörberg
+A lackey - Johan Edholm
+Zerbinetta - Sofie Asplund
+The Prima Donna / Ariadne - Christina Nilsson
 
 Harlequin
 Jens Persson Hertzman

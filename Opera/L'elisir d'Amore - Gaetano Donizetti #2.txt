@@ -8,12 +8,12 @@ Time ..................	2:11:07 min.
 Donizetti - L'elisir d'amore (sottotitoli italiano)
 
 interpreti:
-
-Nemorino: Rolando Villazon
-Adina: Anna Netrebko
-Belcore: Leo Nucci
-Dulcamara: Ildebrando d'Arcangelo
-Coro e orchestra :Wiener Staatsoper diretto da Alfred Eschwè
+-----------
+Nemorino ..... Rolando Villazon
+Adina ........ Anna Netrebko
+Belcore ...... Leo Nucci
+Dulcamara .... Ildebrando d'Arcangelo
+Coro e orchestra ... Wiener Staatsoper diretto da Alfred Eschwè
 Muzyka
 L'Elisir d'Amore - Comic Opera in two Acts/Act I/Bel conforto al mietitore
 1 piosenka z 6
@@ -31,5 +31,3 @@ WYKONAWCA
 Heinz Wallberg
 ALBUM
 Donizetti: L'Elisir D'Amore
-LICENCJE
-Pobierz YouTube Premium
